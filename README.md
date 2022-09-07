@@ -1,6 +1,6 @@
 ### Hi there 👋,  Ishan Poudel
 #### Design and Development
-'m Ishan . I am a computer science student currenlty in my junior year. I enjoy applying my skills to new projects. You can see some of my projects down below.
+I'm Ishan . I am a computer science student currenlty in my junior year. I enjoy applying my skills to new projects. You can see some of my projects down below.
 
 
 
